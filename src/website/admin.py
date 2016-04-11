@@ -6,3 +6,4 @@ from models import *
 admin.site.register(Stop)
 admin.site.register(Route)
 admin.site.register(Pooling)
+admin.site.register(Bus)
